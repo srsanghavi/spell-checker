@@ -1,3 +1,7 @@
+// project Name: Spell Checker and Suggester
+// program Name: installProgram
+// Date of last Modification: 28 sept. 2013 
+// Author name: Shashwat Sanghavi, Shikhar Pandya
 #include<stdio.h>
 
 int main()
