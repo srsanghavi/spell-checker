@@ -6,7 +6,6 @@
 // Brief Description: this program is used for auto completing the word starting from perticular initial(s).
 
 
-
 #include"spellChecker.h"
 
 // basically is checks for the word which the user has given as the input whether it is in the database or not if it is there then it will call print function and give that word as the argument
