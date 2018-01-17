@@ -1,4 +1,7 @@
 spell-checker
 =============
+Developed a spell-checker utility similar to the one used in word processing softwares as a part of data-structures and algorithms course. 
 
-its a simple project of developing a spellchecker in c. Basically it uses a TRIE data structure. It can suggest correct spelling of wrong words, it can complete the incomplete word, it can analyze whole file for misspelled words and one can insert new words to the database. 
+Used TRIE datastructure to store each word in the computer.
+
+For information related to implementation and installation, please visit https://github.com/srsanghavi/spell-checker/blob/master/DSA%20project(Spell%20Checker).pdf 
