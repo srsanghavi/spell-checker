@@ -1,5 +1,8 @@
 spell-checker
 =============
+
+project7.jpeg
+
 Developed a spell-checker utility similar to the one used in word processing softwares as a part of data-structures and algorithms course. 
 
 Used TRIE datastructure to store each word in the computer.
