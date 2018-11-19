@@ -1,7 +1,7 @@
 spell-checker
 =============
 
-[![Spell Checker Data Structure](http://srsanghavi.com/img/project7.jpeg)]
+[![Spell Checker Data Structure(http://srsanghavi.com/img/project7.jpeg)]
 
 Developed a spell-checker utility similar to the one used in word processing softwares as a part of data-structures and algorithms course. 
 
